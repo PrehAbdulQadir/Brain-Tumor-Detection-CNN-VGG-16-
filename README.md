@@ -92,6 +92,12 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn
 * The **VGG-16 model** outperforms CNN due to transfer learning capabilities.
 * Performance metrics: Accuracy, Precision, Recall, and F1-score are logged during training.
 
+<img width="600" height="190" alt="Screenshot 2025-09-27 145242" src="https://github.com/user-attachments/assets/cb57cdcc-4f1e-4b40-af8b-098e6c072157" />
+<img width="245" height="256" alt="Screenshot 2025-09-27 145320" src="https://github.com/user-attachments/assets/1ca18a4a-94f6-4ad2-ba99-28a8aa3a42eb" />
+<img width="246" height="251" alt="Screenshot 2025-09-27 145336" src="https://github.com/user-attachments/assets/eeeb3f73-a91f-4108-9abc-fa2c95248c1b" />
+<img width="124" height="305" alt="Screenshot 2025-09-27 145356" src="https://github.com/user-attachments/assets/48cf0355-e51c-45ef-a8e2-c0d0a1fe0521" />
+
+
 ---
 
 ## 📌 Future Improvements
